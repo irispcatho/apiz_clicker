@@ -1,0 +1,404 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.900; Version 1909; 64bit' Language: 'fr' Physical Memory: 32581 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\Utilisateur\Documents\Unity\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Utilisateur/Desktop/TP Clicker
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59298
+Successfully changed project path to: C:/Users/Utilisateur/Desktop/TP Clicker
+C:/Users/Utilisateur/Desktop/TP Clicker
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Users/Utilisateur/Documents/Unity/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Utilisateur/Desktop/TP Clicker/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P620 (ID=0x1cbd)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.21.14.3091
+Initialize mono
+Mono path[0] = 'C:/Users/Utilisateur/Documents/Unity/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/Utilisateur/Documents/Unity/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/Utilisateur/Documents/Unity/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56576
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/Utilisateur/Documents/Unity/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001867 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005424 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.029 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2247 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.4 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2685.
+Total: 2.451400 ms (FindLiveObjects: 0.165700 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.083600 ms  DeleteObjects: 0.126700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Assets/Chrono_monstre.png
+  artifactKey: Guid(c7677622bb14f6f48b845f86fef33c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Chrono_monstre.png using Guid(c7677622bb14f6f48b845f86fef33c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76299f59ae84d21400c1228f034fe02') in 0.087108 seconds 
+  Import took 0.090231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.061436 seconds.
+  path: Assets/Prefabs/Image_monster_Chrono.prefab
+  artifactKey: Guid(3d295aac946967e4aa32350b305afefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Image_monster_Chrono.prefab using Guid(3d295aac946967e4aa32350b305afefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0a6c81d236912173804854f3548dc6') in 0.043462 seconds 
+  Import took 0.048347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.277612 seconds.
+  path: Assets/Assets/SelmaUI
+  artifactKey: Guid(d218e80f17c5cb94e94497be72a9d5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SelmaUI using Guid(d218e80f17c5cb94e94497be72a9d5d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57cbc0ba3e1c64ee21e61462629ff6f6') in 0.002824 seconds 
+  Import took 0.005982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.998685 seconds.
+  path: Assets/Assets/LogoCompetences/AuraMartiale.png
+  artifactKey: Guid(3ebbeca746e5a1f4b8922494d42020dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/AuraMartiale.png using Guid(3ebbeca746e5a1f4b8922494d42020dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7366badfa3ea0e7922275acc73870b48') in 0.011762 seconds 
+  Import took 0.016965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Assets/CharaTristan/Bandit3.png
+  artifactKey: Guid(e60080c705cb13f41ae8101a012274a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Bandit3.png using Guid(e60080c705cb13f41ae8101a012274a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76b332e2d7c9865cdb2a86dfa9f4493') in 0.010298 seconds 
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Assets/CharaTristan/Bandit1.png
+  artifactKey: Guid(2311d14a217e8044f973f7f06058ae76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Bandit1.png using Guid(2311d14a217e8044f973f7f06058ae76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a733bb13660fdaa3b9e9641b995ab64') in 0.009877 seconds 
+  Import took 0.013447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Assets/SelmaUI/Menu/backgroundMenu.png
+  artifactKey: Guid(883ae22716905ed4e9fbb0e55fb66699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SelmaUI/Menu/backgroundMenu.png using Guid(883ae22716905ed4e9fbb0e55fb66699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4d5092023d41a80826a57cf49aa348') in 0.011702 seconds 
+  Import took 0.015213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Assets/CharaTristan/Bandit2.png
+  artifactKey: Guid(3ec923b6388717e4ea5509b80d29ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Bandit2.png using Guid(3ec923b6388717e4ea5509b80d29ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c3abd23bf7d642ecfcd7bbcd8ec6db') in 0.010761 seconds 
+  Import took 0.014036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008213 seconds.
+  path: Assets/Assets/CharaTristan/Bandit2.png
+  artifactKey: Guid(3ec923b6388717e4ea5509b80d29ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Bandit2.png using Guid(3ec923b6388717e4ea5509b80d29ef91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c3abd23bf7d642ecfcd7bbcd8ec6db') in 0.008779 seconds 
+  Import took 0.012153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.163888 seconds.
+  path: Assets/Assets/LogoCompetences/Berserk.png
+  artifactKey: Guid(1e7237463fe03934cae38b04637e584c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/Berserk.png using Guid(1e7237463fe03934cae38b04637e584c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d771007e59f8dfcaaa990b432654560') in 0.014723 seconds 
+  Import took 0.024783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Assets/LogoCompetences/Berserk.png
+  artifactKey: Guid(1e7237463fe03934cae38b04637e584c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/Berserk.png using Guid(1e7237463fe03934cae38b04637e584c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d771007e59f8dfcaaa990b432654560') in 0.010010 seconds 
+  Import took 0.014369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.228085 seconds.
+  path: Assets/Assets/LogoCompetences/BoostDeGold.png
+  artifactKey: Guid(268697931c21ef848937c9be1ab5e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/BoostDeGold.png using Guid(268697931c21ef848937c9be1ab5e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f637e9328a44f7410fc0a131be450074') in 0.011230 seconds 
+  Import took 0.016182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Assets/CharaTristan/BossFinal.png
+  artifactKey: Guid(7f350c183cbac2f48a326e583cb8d667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/BossFinal.png using Guid(7f350c183cbac2f48a326e583cb8d667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174213b36f2153bd1fa6d3632cf3836d') in 0.010188 seconds 
+  Import took 0.013218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Assets/LogoCompetences/BoostDeGold.png
+  artifactKey: Guid(268697931c21ef848937c9be1ab5e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/BoostDeGold.png using Guid(268697931c21ef848937c9be1ab5e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f637e9328a44f7410fc0a131be450074') in 0.010335 seconds 
+  Import took 0.013994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006965 seconds.
+  path: Assets/Assets/CharaTristan/BossFinal.png
+  artifactKey: Guid(7f350c183cbac2f48a326e583cb8d667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/BossFinal.png using Guid(7f350c183cbac2f48a326e583cb8d667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174213b36f2153bd1fa6d3632cf3836d') in 0.009456 seconds 
+  Import took 0.013417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Assets/SelmaUI/Menu/bouttonPrincipalMenu.png
+  artifactKey: Guid(43417169ca9ee5344a4d2b6f853fe80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SelmaUI/Menu/bouttonPrincipalMenu.png using Guid(43417169ca9ee5344a4d2b6f853fe80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e419197a602793115f015c65a202c11') in 0.009981 seconds 
+  Import took 0.013099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006170 seconds.
+  path: Assets/Assets/SelmaUI/Menu/bouttonPrincipalMenu.png
+  artifactKey: Guid(43417169ca9ee5344a4d2b6f853fe80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SelmaUI/Menu/bouttonPrincipalMenu.png using Guid(43417169ca9ee5344a4d2b6f853fe80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e419197a602793115f015c65a202c11') in 0.007093 seconds 
+  Import took 0.010967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Assets/SelmaUI/Menu/bouttonSecondaireMenu.png
+  artifactKey: Guid(ff6fcce2111f4a444833e5694646ff61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SelmaUI/Menu/bouttonSecondaireMenu.png using Guid(ff6fcce2111f4a444833e5694646ff61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a97dbb27b704f9fb38fd5df8928f58') in 0.009236 seconds 
+  Import took 0.012344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003834 seconds.
+  path: Assets/Assets/SelmaUI/Menu/bouttonSecondaireMenu.png
+  artifactKey: Guid(ff6fcce2111f4a444833e5694646ff61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/SelmaUI/Menu/bouttonSecondaireMenu.png using Guid(ff6fcce2111f4a444833e5694646ff61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a97dbb27b704f9fb38fd5df8928f58') in 0.008347 seconds 
+  Import took 0.011688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.597051 seconds.
+  path: Assets/EZ-Camera-Shake-Unity-master/READMEimages/EZCover.jpg
+  artifactKey: Guid(78484c97604096243806ef380d49f7c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EZ-Camera-Shake-Unity-master/READMEimages/EZCover.jpg using Guid(78484c97604096243806ef380d49f7c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75aed332ba5a358a847b008126646e3') in 0.019157 seconds 
+  Import took 0.022556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Assets/Fonts/Forque-M3An SDF.asset
+  artifactKey: Guid(0e665b5cc871b2844bac865c670d21e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Fonts/Forque-M3An SDF.asset using Guid(0e665b5cc871b2844bac865c670d21e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ede8be63d558899beafa58184952d91') in 0.046895 seconds 
+  Import took 0.050533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Assets/CharaTristan/Goblin4.png
+  artifactKey: Guid(277b76f64c7c11e4aa3acac310c63f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Goblin4.png using Guid(277b76f64c7c11e4aa3acac310c63f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec75818522261e46656f28eb00c1714') in 0.008594 seconds 
+  Import took 0.012663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Assets/LogoCompetences/Intimidation.png
+  artifactKey: Guid(36e1a544dc9046c459a0ad048301d235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/Intimidation.png using Guid(36e1a544dc9046c459a0ad048301d235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d246513b9da2466ce34589a0dd1d9a') in 0.008632 seconds 
+  Import took 0.012778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Assets/CharaTristan/MiniBoss2.png
+  artifactKey: Guid(9de1431c543d3564785e8473e3f54f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/MiniBoss2.png using Guid(9de1431c543d3564785e8473e3f54f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e849132e63da30e41fb8769a74f848') in 0.010683 seconds 
+  Import took 0.014780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Assets/LogoObj/ParcheminSoin.png
+  artifactKey: Guid(dea1981f22bbacf4da70f82ca84819fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoObj/ParcheminSoin.png using Guid(dea1981f22bbacf4da70f82ca84819fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfe61d8b9691bb2da49d217f34f5670') in 0.010480 seconds 
+  Import took 0.014060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets/CharaTristan/MiniBoss3.png
+  artifactKey: Guid(e7473973dd32d35418eb29bd70836d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/MiniBoss3.png using Guid(e7473973dd32d35418eb29bd70836d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98d6c277e051f4d90280765bc3690ca') in 0.009277 seconds 
+  Import took 0.012859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Assets/CharaTristan/Goblin3.png
+  artifactKey: Guid(3a3929d7616dd6e438aebfbb5f592fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Goblin3.png using Guid(3a3929d7616dd6e438aebfbb5f592fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f953398336f8feece64f7d621be8bcc8') in 0.009863 seconds 
+  Import took 0.013128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Assets/LogoCompetences/GrippeSous.png
+  artifactKey: Guid(ee0818347514cd844b8a88264bd35190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoCompetences/GrippeSous.png using Guid(ee0818347514cd844b8a88264bd35190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccaa57a0921c9862a755165124464e7') in 0.007483 seconds 
+  Import took 0.011051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Assets/CharaTristan/Goblin2.png
+  artifactKey: Guid(000a23a9f19d33146b2abb9cf2f9687d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Goblin2.png using Guid(000a23a9f19d33146b2abb9cf2f9687d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7b7f5766c124276eecf61f85a42e2f') in 0.008083 seconds 
+  Import took 0.011192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Assets/LogoObj/ParcheminConcentration.png
+  artifactKey: Guid(947795b0e566ec347a7b7df1fb0c720a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoObj/ParcheminConcentration.png using Guid(947795b0e566ec347a7b7df1fb0c720a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b13011b2ce99b7c1e2ca437961fdf3d') in 0.008597 seconds 
+  Import took 0.011712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Assets/LogoObj/PotionPoison.png
+  artifactKey: Guid(9607d8b2657a2dd47801d58689a1abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoObj/PotionPoison.png using Guid(9607d8b2657a2dd47801d58689a1abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0de51b370714803fb59b1c8a830fbfc') in 0.007570 seconds 
+  Import took 0.011116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Assets/LogoObj/ParcheminFeu.png
+  artifactKey: Guid(d5e9e51bbd679fe40b2a1e65f8a6c39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoObj/ParcheminFeu.png using Guid(d5e9e51bbd679fe40b2a1e65f8a6c39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6af1c7eb9d06689e5d4e554ef39bfe') in 0.008134 seconds 
+  Import took 0.012105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Assets/CharaTristan/Slime3.png
+  artifactKey: Guid(e637a1e156ab8ba4a925997629faf878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Slime3.png using Guid(e637a1e156ab8ba4a925997629faf878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e7640d8d1a368834be83508a3ff975') in 0.007857 seconds 
+  Import took 0.010899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Assets/LogoObj/Potion1.png
+  artifactKey: Guid(ba0498044683e2d4a91967040a4e5a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoObj/Potion1.png using Guid(ba0498044683e2d4a91967040a4e5a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3033cf8a7c2b0bc8884e9cc70e640b') in 0.007363 seconds 
+  Import took 0.010667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Assets/LogoObj/Potion2.png
+  artifactKey: Guid(ca263f91cf53397459400648364a58fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/LogoObj/Potion2.png using Guid(ca263f91cf53397459400648364a58fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a29a38eb46913dee76c5864d47a0c68') in 0.007758 seconds 
+  Import took 0.010907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Assets/CharaTristan/MiniBoss1.png
+  artifactKey: Guid(6fb4c56996a99c047b9320d707559864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/MiniBoss1.png using Guid(6fb4c56996a99c047b9320d707559864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af139ee1b8a74795e96b2624df4fddd') in 0.010139 seconds 
+  Import took 0.013709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Assets/CharaTristan/Slime4.png
+  artifactKey: Guid(e8f0265fc75d5514ea5b6579d097651b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Slime4.png using Guid(e8f0265fc75d5514ea5b6579d097651b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d5060d978f07bc5974c06507b7e939') in 0.008607 seconds 
+  Import took 0.011941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Assets/CharaTristan/Slime1.png
+  artifactKey: Guid(15f9debcc7924f842add8535faa6f338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/CharaTristan/Slime1.png using Guid(15f9debcc7924f842add8535faa6f338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb33cc926e71c953b83fb6ff31811a3') in 0.007952 seconds 
+  Import took 0.011189 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2739.
+Total: 2.372700 ms (FindLiveObjects: 0.194500 ms CreateObjectMapping: 0.082900 ms MarkObjects: 2.001800 ms  DeleteObjects: 0.092700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
